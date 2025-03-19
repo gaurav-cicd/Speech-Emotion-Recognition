@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Speech Emotion Recognition
 
 This project implements a Speech Emotion Recognition system using Python. It can classify emotions from speech audio using machine learning techniques.
@@ -37,3 +38,6 @@ python emotion_recognition.py
 - Implements MFCC (Mel-frequency cepstral coefficients) features
 - Uses Random Forest Classifier for emotion classification
 - Supports real-time audio processing 
+=======
+# Speech-Emotion-Recognition
+>>>>>>> 77372e79f8c9db9294c39e0ae5869d9782bc174a
